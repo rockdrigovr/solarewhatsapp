@@ -1,30 +1,33 @@
 {
   "borderRadius": "0px",
-  "bottomRow": 9,
+  "bottomRow": 4,
   "boxShadow": "none",
   "dynamicBindingPathList": [],
   "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "fontSize"
+    }
+  ],
   "dynamicTriggerPathList": [],
   "fontFamily": "System Default",
-  "fontSize": "0.875rem",
+  "fontSize": "1.5rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": "true",
   "labelTextSize": "0.875rem",
-  "leftColumn": 3,
+  "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "overflow": "NONE",
-  "parentColumnSpace": 7.6865234375,
   "parentId": "tp9pui0e6y",
-  "parentRowSpace": 10,
-  "rightColumn": 19,
-  "text": "id:",
-  "textAlign": "RIGHT",
+  "rightColumn": 53,
+  "text": "Insira um novo contato",
+  "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 5,
+  "topRow": 0,
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "cfmxebyn06",
-  "widgetName": "Text21"
+  "widgetId": "18x7vdv3gs",
+  "widgetName": "Text13Copy"
 }

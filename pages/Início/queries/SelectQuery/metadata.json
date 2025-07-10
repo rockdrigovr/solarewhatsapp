@@ -1,6 +1,6 @@
 {
   "gitSyncId": "6261b50800cba01cd02f2567_6261b50800cba01cd02f256b",
-  "id": "Page1_SelectQuery",
+  "id": "Início_SelectQuery",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -24,7 +24,7 @@
     },
     "dynamicBindingPathList": [],
     "name": "SelectQuery",
-    "pageId": "Page1",
+    "pageId": "Início",
     "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }

@@ -16,7 +16,7 @@
   "icon": "email",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Início",
       "isDefault": true
     }
   ],
